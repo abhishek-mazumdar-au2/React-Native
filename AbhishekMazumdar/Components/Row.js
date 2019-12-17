@@ -8,7 +8,8 @@ const styles = StyleSheet.create({
     },
     textDiv: {
         alignItems: 'center',
-        marginTop: 40
+        marginTop: 40,
+        opacity: 0.95
     }
 })
 
